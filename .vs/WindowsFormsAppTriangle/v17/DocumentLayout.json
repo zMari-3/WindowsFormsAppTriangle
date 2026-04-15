@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B737D49A-83A5-41F3-B076-A88CC3698E79}|WindowsFormsAppTriangle\\WindowsFormsAppTriangle.csproj|c:\\users\\marysya\\downloads\\windowsformsapptriangle\\windowsformsapptriangle\\windowsformsapptriangle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B737D49A-83A5-41F3-B076-A88CC3698E79}|WindowsFormsAppTriangle\\WindowsFormsAppTriangle.csproj|solutionrelative:windowsformsapptriangle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B737D49A-83A5-41F3-B076-A88CC3698E79}|WindowsFormsAppTriangle\\WindowsFormsAppTriangle.csproj|C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\windowsformsapptriangle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B737D49A-83A5-41F3-B076-A88CC3698E79}|WindowsFormsAppTriangle\\WindowsFormsAppTriangle.csproj|solutionrelative:windowsformsapptriangle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B737D49A-83A5-41F3-B076-A88CC3698E79}|WindowsFormsAppTriangle\\WindowsFormsAppTriangle.csproj|C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\windowsformsapptriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B737D49A-83A5-41F3-B076-A88CC3698E79}|WindowsFormsAppTriangle\\WindowsFormsAppTriangle.csproj|solutionrelative:windowsformsapptriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B737D49A-83A5-41F3-B076-A88CC3698E79}|WindowsFormsAppTriangle\\WindowsFormsAppTriangle.csproj|C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\windowsformsapptriangle\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B737D49A-83A5-41F3-B076-A88CC3698E79}|WindowsFormsAppTriangle\\WindowsFormsAppTriangle.csproj|solutionrelative:windowsformsapptriangle\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppTriangle\\Form1.cs",
+              "ToolTip": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsAppTriangle\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:20:10.45Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppTriangle\\Form1.cs",
+              "ToolTip": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsAppTriangle\\Form1.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T12:24:58.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppTriangle\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsAppTriangle\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T12:23:37.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Marysya\\Downloads\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\WindowsFormsAppTriangle\\Program.cs",
+              "RelativeToolTip": "WindowsFormsAppTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T12:18:14.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
