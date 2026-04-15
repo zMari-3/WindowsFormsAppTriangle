@@ -67,12 +67,16 @@
 
 3. **Сборка проекта**
 
-dotnet build
+  ```bash
+  dotnet build
+
 или используйте меню Build → Build Solution в Visual Studio
 
 5. **Запуск приложения**
 
-dotnet run
+  ```bash
+  dotnet run
+
 или нажмите F5 в Visual Studio
 
 ## Структура проекта
